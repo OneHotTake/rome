@@ -69,7 +69,7 @@ Please make all changes and overrides in this file, there is no need to do that 
 type: git_repo
 primary_branch: main
 path: ~/rome
-origin: https://github.com/HelgeKeck/rome.git
+origin: https://github.com/OneHotTake/rome.git
 is_system_service: False
 managed_services: klipper
 install_script: install.sh
